@@ -97,11 +97,12 @@ Configurer la base de données MySQL
 Lancer Spring Boot Application
 
 
-🌍 À propos de moi
-👩‍🎓 Junior Developer | Flutter & Spring Boot
-⚡ Passionnée par le développement d’applications mobiles et web
-🌟 Curieuse et motivée pour créer des solutions intelligentes et innovantes
-📫 Contact : khadijagrira143@gmail.com
+- 🌍 À propos de moi
+- 👩‍🎓 Junior Developer | Flutter & Spring Boot
+- ⚡ Passionnée par le développement d’applications mobiles et web
+- 🌟 Curieuse et motivée pour créer des solutions intelligentes et innovantes
+- 📫 Contact : khadijagrira143@gmail.com
 
-⭐ Rejoignez-moi sur GitHub et découvrez mes autres projets 
+⭐ Rejoignez-moi sur GitHub et découvrez mes autres projets
+
 ⭐ N’hésitez pas à explorer le backend Springboot : hotel-reservation-backend et le dashboard d'admin Angular : hotel-reservation-dashboard
