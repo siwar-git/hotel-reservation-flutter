@@ -83,11 +83,24 @@ Hajz_sejours_clean/
 └─ .gitignore
 ```
 
+
+💻 Backend Spring Boot disponible ici : [hotel-reservation-backend](https://github.com/siwar-git/hotel-reservation-backend)
+
+### Pour lancer le backend
+1. Cloner le repo backend
+```bash
+git clone https://github.com/siwar-git/hotel-reservation-backend.git
+cd hotel-reservation-backend
+```
+Configurer la base de données MySQL
+
+Lancer Spring Boot Application
+
+
 🌍 À propos de moi
 👩‍🎓 Junior Developer | Flutter & Spring Boot
 ⚡ Passionnée par le développement d’applications mobiles et web
 🌟 Curieuse et motivée pour créer des solutions intelligentes et innovantes
 📫 Contact : khadijagrira143@gmail.com
 
-⭐ Rejoignez-moi sur GitHub
-Découvrez mes autres projets 
+⭐ Rejoignez-moi sur GitHub et découvrez mes autres projets 
